@@ -1,4 +1,4 @@
-# effectiveJava
+# Effective Java 3/E
 Effective Java 3/E 스터디를 위한 Repo 입니다.
 
 "한 문장이라도 모르는 것을 대충 넘어가지 말자"
